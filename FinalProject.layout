@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="EnemyInfantrySword.h" open="1" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3475" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="EnemyFlierLance.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3609" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="HeroFlierAxeCamilla.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3358" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="FinalProjectMain.h" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3701" topLine="115" />
+		</Cursor>
+	</File>
+	<File name="FinalProjectApp.cpp" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="427" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="HeroDaggerKagero.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1956" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="HeroInfantrySwordIke.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3593" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="FinalProjectApp.h" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="151" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="FinalProjectMain.cpp" open="1" top="1" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13388" topLine="562" />
+		</Cursor>
+	</File>
+	<File name="EnemyArcher.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1981" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Makefile" open="1" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="259" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="wx_pch.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="362" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Cell.h" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="852" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="HeroCalvarySpearEphraim.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3987" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="EnemyDagger.h" open="1" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3874" topLine="101" />
+		</Cursor>
+	</File>
+	<File name="FlyerPass.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1125" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="CalvaryImpass.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="334" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Emptycell.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1134" topLine="5" />
+		</Cursor>
+	</File>
+	<File name="EnemyArmorAxe.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3531" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

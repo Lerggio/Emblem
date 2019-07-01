@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="FinalProject" />
+		<Option pch_mode="0" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/FinalProject" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Option projectLinkerOptionsRelation="2" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/FinalProject" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Option projectLinkerOptionsRelation="2" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="`wx-config --cflags`" />
+			<Add option="-Winvalid-pch" />
+			<Add option="-include wx_pch.h" />
+			<Add option="-DWX_PRECOMP" />
+			<Add option='[[if (GetCompilerFactory().GetCompilerVersionString(_T(&quot;gcc&quot;)) &gt;= _T(&quot;4.8.0&quot;)) print(_T(&quot;-Wno-unused-local-typedefs&quot;));]]' />
+			<Add option="-Wall" />
+		</Compiler>
+		<Linker>
+			<Add option="`wx-config --libs`" />
+		</Linker>
+		<Unit filename="CalvaryImpass.h" />
+		<Unit filename="Cell.h" />
+		<Unit filename="Emptycell.h" />
+		<Unit filename="EnemyArcher.h" />
+		<Unit filename="EnemyArmorAxe.h" />
+		<Unit filename="EnemyArmorLance.h" />
+		<Unit filename="EnemyArmorSword.h" />
+		<Unit filename="EnemyCalvaryAxe.h" />
+		<Unit filename="EnemyCalvaryLance.h" />
+		<Unit filename="EnemyCalvarySword.h" />
+		<Unit filename="EnemyDagger.h" />
+		<Unit filename="EnemyFlierAxe.h" />
+		<Unit filename="EnemyFlierLance.h" />
+		<Unit filename="EnemyFlierSword.h" />
+		<Unit filename="EnemyInfantryAxe.h" />
+		<Unit filename="EnemyInfantryLance.h" />
+		<Unit filename="EnemyInfantrySword.h" />
+		<Unit filename="FinalProjectApp.cpp" />
+		<Unit filename="FinalProjectApp.h" />
+		<Unit filename="FinalProjectMain.cpp" />
+		<Unit filename="FinalProjectMain.h" />
+		<Unit filename="FlyerPass.h" />
+		<Unit filename="HeroArcherKlein.h" />
+		<Unit filename="HeroArmorAxeHector.h" />
+		<Unit filename="HeroArmorLanceEffie.h" />
+		<Unit filename="HeroArmorSwordZelgius.h" />
+		<Unit filename="HeroCalvaryAxeTitania.h" />
+		<Unit filename="HeroCalvarySpearEphraim.h" />
+		<Unit filename="HeroCalvarySwordSeigbert.h" />
+		<Unit filename="HeroDaggerKagero.h" />
+		<Unit filename="HeroFlierAxeCamilla.h" />
+		<Unit filename="HeroFlierLanceCordelia.h" />
+		<Unit filename="HeroFlierSwordElincia.h" />
+		<Unit filename="HeroInfantryAxeAzura.h" />
+		<Unit filename="HeroInfantryLanceLucina.h" />
+		<Unit filename="HeroInfantrySwordIke.h" />
+		<Unit filename="Makefile" />
+		<Unit filename="wx_pch.h">
+			<Option compile="1" />
+			<Option weight="0" />
+		</Unit>
+		<Unit filename="wxsmith/FinalProjectframe.wxs" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+			<wxsmith version="1">
+				<gui name="wxWidgets" src="FinalProjectApp.cpp" main="FinalProjectFrame" init_handlers="necessary" language="CPP" />
+				<resources>
+					<wxFrame wxs="wxsmith/FinalProjectframe.wxs" src="FinalProjectMain.cpp" hdr="FinalProjectMain.h" fwddecl="0" i18n="1" name="FinalProjectFrame" language="CPP" />
+				</resources>
+			</wxsmith>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
